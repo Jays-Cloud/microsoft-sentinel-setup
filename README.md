@@ -53,11 +53,11 @@ Lab link: https://www.whizlabs.com/labs/configuring-microsoft-sentinel-environme
 
 ## Screenshots
 
-- Log Analytics Workspace created (`screenshots/log-analytics-workspace-created.png`)  
-- Sentinel workspace enabled/attached (`screenshots/sentinel-workspace-enabled.png`)  
-- Watchlist created (`screenshots/watchlist-created.png`)  
-- Threat Indicator added (`screenshots/threat-indicator-added.png`)  
-- Log retention configured (`screenshots/log-retention-configured.png`)
+- Log Analytics Workspace created (`rgoverview.png`)  
+- Sentinel workspace enabled/attached (`sentineloverview.png`)  
+- Watchlist created (`sentinelwatchlist.png`)  
+- Threat Indicator added (`threatindicatorlog.png`)  
+- Log retention configured (`logrentention.png`)
 
 * * *
 
